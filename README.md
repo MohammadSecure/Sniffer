@@ -1,6 +1,6 @@
 # Sniffer
 Sniffer Radio Digital
-### 1.  Streaming audio over UDP
+### 1.  [Streaming audio over UDP](http://gqrx.dk/doc/streaming-audio-over-udp)
 
 Starting with version 2.3 gqrx has an option to stream the audio over UDP to a remote host. This can be used to send the audio to external data decoders or for remote monitoring. This post describes the streaming functionality in gqrx and provides a few examples for how to use it.
 
